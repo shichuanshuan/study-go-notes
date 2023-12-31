@@ -1,5 +1,0 @@
-2021/07/03 17:42:18.232907 F:/GOlang/src/GoCode/P246log/demo04/main.go:19: 这是一条很普通的日志
-2021/07/03 17:42:18.253228 F:/GOlang/src/GoCode/P246log/demo04/main.go:20: [小王子]
-2021/07/03 17:42:18.253228 F:/GOlang/src/GoCode/P246log/demo04/main.go:21: 这是一条很普通的日志。
-2021/07/03 17:43:48.879522 F:/GOlang/src/GoCode/P246log/demo04/main.go:19: 这是一条很普通的日志
-[小王子]2021/07/03 17:43:48.897780 F:/GOlang/src/GoCode/P246log/demo04/main.go:21: 这是一条很普通的日志。
